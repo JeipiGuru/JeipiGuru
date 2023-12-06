@@ -6,7 +6,7 @@ Hi there 👋
 - 🤔 Skilled in database design and optimization, with proficiency in MySQL & MongoDB.
 - ⚡ Experienced in utilizing AWS services for scalable and secure cloud solutions.
 - 💬 Ask me about anything related with Fullstack & Mobile Developing.
-- 📫 How to reach me: globalgraphicsjpstar@gmail.com / +8562095000238
+- 📫 How to reach me: globalgraphicsjpstar@gmail.com
 
 <!--
 **JeipiGuru/JeipiGuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
