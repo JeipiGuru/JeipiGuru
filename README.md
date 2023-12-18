@@ -5,8 +5,7 @@ Hi there 👋
 - 👯 Deep Understanding in native mobile app development for Android and iOS platforms.
 - 🤔 Skilled in database design and optimization, with proficiency in MySQL & MongoDB.
 - ⚡ Experienced in utilizing AWS services for scalable and secure cloud solutions.
-- 💬 Ask me about anything related with Fullstack & Mobile Developing.
-- 📫 How to reach me: globalgraphicsjpstar@gmail.com
+- 💬 Ask me about anything related with Fullstack & Mobile Developing. 
 
 <!--
 **JeipiGuru/JeipiGuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
